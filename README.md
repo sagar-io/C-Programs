@@ -1,4 +1,4 @@
-## C program to find *Highest Common Divisor* with the help of *Euclid Theorem* 
+## C program to find *Highest Common Divisor* with the help of *Euclid Algorithm* 
 
 ### Example of HCD -
 If we have two numbers 4 and 12  <br>
